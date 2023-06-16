@@ -1,0 +1,32 @@
+.counterContainer{
+    background-color:aqua;
+    background-size:cover;
+    height:100vh;
+}
+.counterHeading{
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.reached{
+    text-align: center;
+}
+.counterNumber{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:center;
+    font-size:50px;
+    padding-bottom:10px;
+}
+.increaseButton{
+    border-radius:10px;
+    margin-right:10px;
+    border-color:blue;
+    background-color: antiquewhite;
+    font-family:'Courier New', Courier, monospace;
+}
+.decreaseButton{
+    border-radius:10px;
+    margin-left:10px;
+    border-color:blue;
+    background-color: antiquewhite;
+    font-family:'Courier New', Courier, monospace;
+}
